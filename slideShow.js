@@ -3,7 +3,9 @@
 const images = [
     {'id': '1', 'url': './img/naruto1.jpg'},
     {'id': '2', 'url': './img/modosenin.jpg'},
-    {'id': '3', 'url': './img/narutokurama.jpg'}
+    {'id': '3', 'url': './img/narutokurama.jpg'},
+    {'id': '4', 'url': './img/naruto2.jpg'},
+    {'id': '5', 'url': './img/naruto3.jpg'}
 ]
 
 const containerItems = document.querySelector ('#container-items')
